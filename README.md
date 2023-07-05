@@ -1,32 +1,41 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+<a name="readme-top"></a>
 
-# Hello Microverse!
+# 📗 Table of Contents
 
-> This is my first project with microverse, i applied the linters to my html and css styling.
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ (OPTIONAL)](#faq)
+- [📝 License](#license)
 
+# 📖 [Hello Microverse] <a name="about-project"></a>
 
-## Built With
+> My first Microverse Project
 
-- HTML&CSS
+**[Hello Microverse]** is my first project where i got to aplly skills that i have learned like setting up linters for both html and css.
 
+## 🛠 Built With <a name="built-with">HTML&CSS</a>
 
+## 👥 Authors <a name="authors"></a>
 
-## Authors
-
-👤 **Prince**
+👤 **Author**
 
 - GitHub: [@prince-rutagengwa](https://github.com/prince-rutagengwa)
+- Twitter: [@Prince_rut250](https://twitter.com/Prince_rut250)
+- LinkedIn: [Prince Rutagengwa](https://linkedin.com/in/prince-rutagengwa/)
 
-## 🤝 Contributing
+## ⭐️ Show your support <a name="support"></a>
 
-Contributions, issues, and feature requests are welcome!
+> If you like this project, don't hesitate to rate it, An extra star would make me keep going further. thanks.
 
-Feel free to check the [issues page](../../issues/).
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Show your support
+## 📝 License <a name="license"></a>
 
-Give a ⭐️ if you like this project!
+This project is [MIT](./LICENSE) licensed.
 
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
